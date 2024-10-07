@@ -8,12 +8,15 @@ format:
   html:
     embed-resources: true
     smooth-scroll: true
-    code_folding: hide 
+    code-fold: true 
     toc: true
     toc-location: left
     toc-title: Table of Contents
     toc-depth: 1
     page-layout: article
+    code-tools:
+      source: "https://github.com/MClausonAus/datarock_data_challenge.git"
+    
 execute:
   warning: false
   enabled: true
