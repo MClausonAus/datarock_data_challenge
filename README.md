@@ -1,5 +1,6 @@
-# datarock_data_challenge
-Datarock Data Challenge - Matt Clauson
+# Datarock Data Challenge
+
+Submission - Matt Clauson
 
 ## File Structure
 
