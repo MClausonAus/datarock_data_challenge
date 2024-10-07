@@ -1,0 +1,23 @@
+project:
+  render: 
+  - "*.qmd"
+  - "!sketches/"
+  type: website
+  output-dir: output_docs
+format: 
+  html:
+    embed-resources: true
+    smooth-scroll: true
+    code_folding: hide 
+    toc: true
+    toc-location: left
+    toc-title: Table of Contents
+    toc-depth: 1
+    page-layout: article
+execute:
+  warning: false
+  enabled: true
+  cache: true
+
+
+
