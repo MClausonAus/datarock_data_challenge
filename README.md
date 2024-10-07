@@ -10,3 +10,5 @@ Analysis scripts in "Scripts"
 
 Output document in output_docs
 
+renv.lock for package repoducibility. 
+
